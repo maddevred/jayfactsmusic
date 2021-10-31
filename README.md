@@ -1,6 +1,6 @@
-# Amari James Portfolio Website
+# JAYFACTSMUSIC Official Website
 
-This is an application to host my official, updated portfolio website. Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source code here:
+This is an application to host an official, user-friendly musical e-commerce website. Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source code here:
 <br>
 https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json)
 <br>
@@ -22,7 +22,7 @@ and hosted publicly on Heroku.
 
 <strong>OR</strong>
 
-<em> open here<em> https://amarijames-portfolio.herokuapp.com/
+<em> open here<em> https://jayfactsmusic.herokuapp.com/
 
 <br>
 
@@ -39,7 +39,7 @@ and hosted publicly on Heroku.
 
 ### DEV NOTE:
 <br>
-This is my current final portfolio project. I will be making constant updates and changes as I design new websites and applications, as well as regularly debugging any issues that may arise. <br>
+This website is still under construction. I will be making constant updates and changes as I add new features and beautification elements, as well as regularly debugging any issues that may arise. <br>
 <br>
 Please check back for updates, fixes, and cool new features! <br>
 <br>

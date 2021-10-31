@@ -205,13 +205,19 @@ p {
   padding: 1em;
 }
 
-.github{
+.insta{
   height: 100px;
   width: 100px;
   padding: 1em;
 }
 
-.linkedin{
+.lum{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.youtube{
   height: 100px;
   width: 100px;
   padding: 1em;
@@ -229,11 +235,15 @@ p {
   padding: 1em;
 }
 
-.ghstyle {
+.igstyle {
   color: white;
 }
 
-.listyle {
+.lumstyle {
+  color: white;
+}
+
+.youstyle {
   color: white;
 }
 
