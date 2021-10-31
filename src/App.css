@@ -1,0 +1,252 @@
+.App {
+  text-align: center;
+}
+
+:root {
+  --off-white: #fafafa;
+}
+.nav {
+  background-color: grey;
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  height: 80px;
+  z-index: 1000;
+  box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
+}
+
+.nav-logo {
+  height: 60px;
+  width: 60px;
+}
+
+.nav-logo:hover {
+  cursor: pointer;
+}
+
+.nav .nav-content {
+  max-width: 900px;
+  padding: 0rem 3rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.nav-item {
+  display: inline;
+  margin-left: 2rem;
+  color: #333;
+}
+
+.nav-item:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.section {
+  min-height: 100vh;
+}
+
+.section-dark {
+  background: rgb(255, 56, 56);
+  color: white;
+}
+
+
+.section-content {
+  height: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  display: fill;
+}
+
+button {
+  height: 75px;
+  width: 75px;
+}
+
+img {
+  border-radius: 100px;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.mongo {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.sql {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.node {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.javascript {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.react {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.linux {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.express {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.python {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.django {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.bootstrap{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.html-css {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.sequelize {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.mongoose {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.php {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.jade {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.hzhq {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.ouid {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.irezumi {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.microsoft{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.github{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.linkedin{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.email{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.phone{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.ghstyle {
+  color: white;
+}
+
+.listyle {
+  color: white;
+}
+
+.img1 {
+  height: 300px;
+  width: 300px;
+  object-fit: fill;
+  border-radius: 100%;
+}
+
+.img2 {
+  height: 300px;
+  width: 300px;
+  object-fit: fill;
+  border-radius: 10%;
+}
