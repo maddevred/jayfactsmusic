@@ -25,7 +25,7 @@ const contactMe =
 <br></br>
 <br></br>
 
-<img class="email" src="https://images.indianexpress.com/2020/10/Gmail-new-logo.jpg"></img>
+<img class="email" src="https://i.pinimg.com/564x/a1/cf/67/a1cf6782e1d737865bdeca4fec7fc5fd.jpg"></img>
 <p>jayfactsmusic@yahoo.com</p>
 <br></br>
 
