@@ -260,3 +260,84 @@ p {
   object-fit: fill;
   border-radius: 10%;
 }
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Akronim);
+
+.fire {
+  margin: 50px auto;
+  width: 80%;
+  max-width: 1000px;
+  height: 200px;
+
+  background-position: center center;
+  background-size: 1000px 200px;
+  border-radius: 10px;
+  font-family: 'Akronim';
+  overflow: hidden;
+    text-align: center;
+  vertical-align: middle;
+
+}
+.fire:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.Blazing {
+  display: inline-block;
+  margin: 0;
+
+    color: black;
+    font-size: 100px;
+  line-height: 50px;
+  min-width: 50px;
+  outline: none;
+  vertical-align: middle;
+    
+  text-shadow:
+        0 3px 20px cyan,
+        0 0 20px cyan,
+    0 0 10px blue,
+    4px -5px 6px lightblue,
+    -4px -10px 10px lightblue,
+    0 -10px 30px lightblue;
+  animation: 2s Blazing infinite alternate linear;
+}
+
+@keyframes Blazing {
+  0%   { text-shadow: 0 3px 20px darkblue, 0 0 20px darkblue,
+    0 0 10px blue,
+    0 0 0 lightblue,
+    0 0 5px lightblue,
+    -2px -5px 5px lightblue,
+    4px -10px 10px lightblue; }
+  25%   { text-shadow: 0 3px 20px darkblue, 0 0 30px darkblue,
+    0 0 20px blue,
+    0 0 5px lightblue,
+    -2px -5px 5px lightblue,
+    3px -10px 10px lightblue,
+    -4px -15px 20px lightblue; }
+  50%   { text-shadow: 0 3px 20px darkblue, 0 0 20px darkblue,
+    0 -5px 10px blue,
+    -2px -5px 5px lightblue,
+    3px -10px 10px lightblue,
+    -4px -15px 20px lightblue,
+    2px -20px 30px lightblue(255,255,0,0.5); }
+  75%   { text-shadow: 0 3px 20px darkblue, 0 0 20px darkblue,
+    0 -5px 10px blue,
+    3px -5px 5px lightblue,
+    -4px -10px 10px lightblue,
+    2px -20px 30px lightblue(255,255,0,0.5),
+    0px -25px 40px rgba(255,255,0,0)}
+  100%   { text-shadow: 0 3px 20px darkblue, 0 0 20px darkblue,
+    0 0 10px blue,
+    0 0 0 lightblue,
+    0 0 5px lightblue,
+    -2px -5px 5px lightblue,
+    4px -10px 10px lightblue; }
+}

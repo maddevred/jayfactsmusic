@@ -2,9 +2,10 @@ const aboutMe =
 <html>
 <body>
 
-<br></br>
-<h1>***WEBSITE UNDER CONSTRUCTION!!!***</h1>
-<br></br> 
+<div class="dark fire">
+        <h1 class="Blazing" contenteditable="true">JAYFACTSMUSIC</h1>
+</div>  
+
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;
