@@ -6,7 +6,7 @@
   --off-white: #fafafa;
 }
 .nav {
-  background-color: yellow;
+  background-color: blue;
   position: sticky;
   top: 0px;
   width: 100%;
@@ -50,7 +50,7 @@
 }
 
 .section-dark {
-  background: lightblue;
+  background: blue;
   color: white;
 }
 
@@ -258,10 +258,14 @@ p {
   height: 300px;
   width: 300px;
   object-fit: fill;
-  border-radius: 10%;
+  border-radius: 100%;
 }
 
-
+.pics {
+  height: 200px;
+  width: 200px;
+  justify-items: center;
+}
 
 
 @import url(https://fonts.googleapis.com/css?family=Akronim);
