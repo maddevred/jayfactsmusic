@@ -326,13 +326,13 @@ p {
     -2px -5px 5px lightblue,
     3px -10px 10px lightblue,
     -4px -15px 20px lightblue; }
-  50%   { text-shadow: 0 3px 20px purple, 0 0 20px purple,
+  50%   { text-shadow: 0 3px 20px darkblue, 0 0 20px red,
     0 -5px 10px blue,
     -2px -5px 5px lightblue,
     3px -10px 10px lightblue,
     -4px -15px 20px lightblue,
     2px -20px 30px lightblue(255,255,0,0.5); }
-  75%   { text-shadow: 0 3px 20px purple, 0 0 20px purple,
+  75%   { text-shadow: 0 3px 20px red, 0 0 20px red,
     0 -5px 10px blue,
     3px -5px 5px lightblue,
     -4px -10px 10px lightblue,
